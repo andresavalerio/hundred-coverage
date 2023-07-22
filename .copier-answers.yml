@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 1.1.0
+_src_path: https://github.com/Kludex/python-template
+cli: true
+description: Increasing the coverage of your Python project
+email: andresalvalerio@gmail.com
+full_name: Andresa Valério
+github: andresavalerio
+project_name: Hundred Coverage
+twitter: valerioandresa
